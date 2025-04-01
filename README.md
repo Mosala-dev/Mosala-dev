@@ -2,8 +2,8 @@
   
   ## About me
 
-- 👀 I’m interested in devoloping java project 
-- 🌱 I’m currently learning java language, HTML, CSS, JavaScipt and Database
+- 👀 I’m interested in devoloping java projects
+- 🌱 I’m currently learning java language, HTML, CSS, JavaScipt and Database management
 - 💞️ ’m looking to collaborate on exciting development projects
 
   ## How to Reach Me
