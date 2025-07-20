@@ -2,9 +2,9 @@
   
   ## About me
 
-- 👀 I’m interested in devoloping java projects
+- 👀 I’m interested in devoloping java projects and managing database using sql
 - 🌱 I’m currently learning java language, HTML, CSS, JavaScipt and Database management
-- 💞️ ’m looking to collaborate on exciting development projects
+- 💞️ I’m looking to collaborate on exciting development projects
 
   ## How to Reach Me
   
